@@ -1,0 +1,26 @@
+.lili{
+    border-radius: 100px;
+    height: 180px;
+   width: 180px;
+   margin-left: 400px;
+ 
+
+}
+.left{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+margin-top: 146px;
+
+}
+.samer{
+    color: palevioletred;
+
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size:29px !important;
+
+}
+
